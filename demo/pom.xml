@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>demo</groupId>
+    <groupId>org.apache.portals.pluto.demo</groupId>
     <artifactId>demo</artifactId>
 
     <dependencies>
